@@ -4,20 +4,21 @@
 ## List to be updated
 
 ## Garrett:
-* Master Detail Pages
-* Upload control
+- [ ] Master Detail Pages
+- [x] Upload control
 
 ## Andy:
-* List adapter
-* myfiles.aspx
+- [x] List adapter
+- [ ] myfiles.aspx
+- [ ] Grid View
 
 ## Glen:
-* Login Control
-* login.aspx
+- [x] Login Control
+- [x] login.aspx
 
 ## Tadhg:
-* Themes (RAD)
-* Change theme by DD or Radio Button
+- [x] Themes (RAD)
+- [ ] Change theme by DD or Radio Button
 
 ## Other Items
 ### Take from these and put under your name.
